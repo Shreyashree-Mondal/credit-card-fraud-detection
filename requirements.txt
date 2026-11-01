@@ -1,7 +1,5 @@
 pandas
 numpy
 scikit-learn
-pyod
-matplotlib
-seaborn
-jupyter
+pyod==1.1.3
+shap
